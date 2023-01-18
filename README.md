@@ -17,7 +17,7 @@ This is second line
 
 ###### Md Musfiqur Rahman
 
-<p>This is Md Musfiqur Rahman. I am 21 years old. I just finished my masters at Tampere University</p>
+<p>This is Md Musfiqur Rahman. I am 21 years old.</p>
 
 <br/>
 
